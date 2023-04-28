@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Yunus Emre ÇELİK
+#### Django Developer
+![Django Developer](https://github.com/Yalanguz/yalanguz.github.io/blob/main/img/prfl2.JPG?raw=true)
 
-I'm Yunus Emre from Turkey, and ı do content on Design and Development.
+I was born in 1981 in Erzurum and I live in Izmir. I have been working as a computer technician in a public institution for 18 years. I would like to take part in projects where I can earn additional income thanks to the trainings I have received on software.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yalanguz)](https://github.com/anuraghazra/github-readme-stats)
+Skills: DJANGO/ REACT / JS / HTML / CSS/ IT EXPERT
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
