@@ -1,4 +1,4 @@
-### Hi there 👋, Yunus Emre ÇELİK
+###  Yunus Emre ÇELİK
 #### Django Developer
 ![Django Developer](https://github.com/Yalanguz/yalanguz.github.io/blob/main/img/prfl2.JPG?raw=true)
 
