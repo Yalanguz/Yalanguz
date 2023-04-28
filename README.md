@@ -4,7 +4,17 @@
 
 I was born in 1981 in Erzurum and I live in Izmir. I have been working as a computer technician in a public institution for 18 years. I would like to take part in projects where I can earn additional income thanks to the trainings I have received on software.
 
-Skills: PYHTON/ DJANGO/ REACT / JS / HTML / CSS/ BOOSTRAP/  IT EXPERT /
+## Skills and Experience
+
+* PYHTON
+* DJANGO
+* REACT
+* JS
+* HTML
+* CSS
+* BOOSTRAP
+* IT EXPERT
+
 
 
 - 🔭 I’m currently working on İzmir İl Sağlık Müdürlüğü 
